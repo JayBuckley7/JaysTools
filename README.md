@@ -2,7 +2,7 @@
 
 Phishing is dumnb.
 
-I got a phising link pretending to be amazon trying to steal account details by posting a payloud up to https://prime.activation.billing.jto.gim.mybluehost.me/auth/card
+I got a phising link pretending to be amazon trying to steal account details by posting a payload up to https://prime.activation.billing.jto.gim.mybluehost.me/auth/card
 
 so here's a generator to fill that database with froggy data
 
