@@ -1,6 +1,11 @@
 # JaysTools Test Data Generator
 
-This repository contains a simple Python script for generating synthetic test data and sending it to a URL via HTTP POST.
+Phishing is dumnb.
+
+I got a phising link pretending to be amazon trying to steal account details by posting a payloud up to https://prime.activation.billing.jto.gim.mybluehost.me/auth/card
+
+so here's a generator to fill that database with froggy data
+
 
 ## Usage
 
